@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prac3</string>
+    <string name="saludo">Introduce aqui tu nombre:</string>
+    <string name="contrasena">Introduce aqui tu contraseña:</string>
+</resources>
