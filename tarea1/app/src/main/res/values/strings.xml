@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tarea1</string>
+    <string name="borrar">BORRAR EL TEXTO</string>
+    <string name="boton">CALCULAR SERIE FIBONACCI</string>
+</resources>
