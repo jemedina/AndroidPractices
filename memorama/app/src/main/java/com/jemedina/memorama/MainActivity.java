@@ -6,7 +6,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
-import android.widget.Toast;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -17,6 +16,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     List<ImageView> imageViews;
     List<Integer> numeros;
     List<Drawable> imagenes;
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -30,7 +31,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         Collections.shuffle(numeros);
         imageViews = new ArrayList<>();
-
         imageViews.add((ImageView) findViewById(R.id.img1));
         imageViews.add((ImageView) findViewById(R.id.img2));
         imageViews.add((ImageView) findViewById(R.id.img3));

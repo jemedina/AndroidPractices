@@ -15,37 +15,29 @@
             <ImageView
                 android:tag="1"
                 android:id="@+id/img1"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_marginLeft="8dp"
-                android:layout_marginRight="8dp"
                 android:layout_weight="1"
                 android:src="@drawable/img1"/>
             <ImageView
                 android:tag="2"
                 android:id="@+id/img2"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_marginLeft="8dp"
-                android:layout_marginRight="8dp"
                 android:layout_weight="1"
                 android:src="@drawable/img1"/>
             <ImageView
                 android:tag="3"
                 android:id="@+id/img3"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_marginLeft="8dp"
-                android:layout_marginRight="8dp"
                 android:layout_weight="1"
                 android:src="@drawable/img1"/>
             <ImageView
                 android:tag="4"
                 android:id="@+id/img4"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_marginLeft="8dp"
-                android:layout_marginRight="8dp"
                 android:layout_weight="1"
                 android:src="@drawable/img1"/>
 
@@ -58,40 +50,32 @@
 
                 android:tag="5"
                 android:id="@+id/img5"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_marginLeft="8dp"
-                android:layout_marginRight="8dp"
                 android:layout_weight="1"
                 android:src="@drawable/img1"/>
             <ImageView
 
                 android:tag="6"
                 android:id="@+id/img6"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_marginLeft="8dp"
-                android:layout_marginRight="8dp"
                 android:layout_weight="1"
                 android:src="@drawable/img1"/>
             <ImageView
 
                 android:tag="7"
                 android:id="@+id/img7"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_marginLeft="8dp"
-                android:layout_marginRight="8dp"
                 android:layout_weight="1"
                 android:src="@drawable/img1"/>
             <ImageView
 
                 android:tag="8"
                 android:id="@+id/img8"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_marginLeft="8dp"
-                android:layout_marginRight="8dp"
                 android:layout_weight="1"
                 android:src="@drawable/img1"/>
 
@@ -104,40 +88,32 @@
 
                 android:tag="9"
                 android:id="@+id/img9"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_marginLeft="8dp"
-                android:layout_marginRight="8dp"
                 android:layout_weight="1"
                 android:src="@drawable/img1"/>
             <ImageView
 
                 android:tag="10"
                 android:id="@+id/img10"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_marginLeft="8dp"
-                android:layout_marginRight="8dp"
                 android:layout_weight="1"
                 android:src="@drawable/img1"/>
             <ImageView
 
                 android:tag="11"
                 android:id="@+id/img11"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_marginLeft="8dp"
-                android:layout_marginRight="8dp"
                 android:layout_weight="1"
                 android:src="@drawable/img1"/>
             <ImageView
 
                 android:tag="12"
                 android:id="@+id/img12"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_marginLeft="8dp"
-                android:layout_marginRight="8dp"
                 android:layout_weight="1"
                 android:src="@drawable/img1"/>
 
@@ -149,37 +125,29 @@
             <ImageView
                 android:tag="13"
                 android:id="@+id/img13"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_marginLeft="8dp"
-                android:layout_marginRight="8dp"
                 android:layout_weight="1"
                 android:src="@drawable/img1"/>
             <ImageView
                 android:tag="14"
                 android:id="@+id/img14"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_marginLeft="8dp"
-                android:layout_marginRight="8dp"
                 android:layout_weight="1"
                 android:src="@drawable/img1"/>
             <ImageView
                 android:tag="15"
                 android:id="@+id/img15"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_marginLeft="8dp"
-                android:layout_marginRight="8dp"
                 android:layout_weight="1"
                 android:src="@drawable/img1"/>
             <ImageView
                 android:tag="16"
                 android:id="@+id/img16"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_marginLeft="8dp"
-                android:layout_marginRight="8dp"
                 android:layout_weight="1"
                 android:src="@drawable/img1"/>
 
