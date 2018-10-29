@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#000"
+    android:background="@drawable/fondo3"
     tools:context=".GameOverActivity">
 
 
@@ -16,15 +16,28 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="124dp"
         android:text="Game Over"
-        android:textColor="#FFF"
+        android:textColor="#333"
         android:textSize="50dp" />
 
     <TextView
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="222dp"
         android:text="Puntuacion"
-        android:textColor="#FFF"
+        android:textColor="#000"
         android:textSize="30dp" />
+
+    <Button
+        android:id="@+id/startGameBtn2"
+        android:layout_width="133dp"
+        android:layout_height="77dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="156dp"
+        android:background="@drawable/botonredondo"
+        android:textSize="20dp"
+        android:text="Volver a jugar!" />
 </RelativeLayout>

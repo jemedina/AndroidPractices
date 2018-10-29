@@ -1,0 +1,5 @@
+
+Ôsquid:S1598"²This file "MainActivity.java" should be located in "com/jemedina/practica7" directory, not in "/Users/symb4d/Dev/AndroidPractices/Prac7/app/src/main/java/com/optativa/practica7".(ªØÒüúÿÿÿÿ8––ì,
+U"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ºÖ8––ì,
+gsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ºÖ8––ì,
+jsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(ÄÇ‚·8––ì,

@@ -101,6 +101,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     @Override
+    public void onBackPressed() {
+        return;
+    }
+
+    @Override
     public void run() {
         try {
             Thread.sleep(800);
